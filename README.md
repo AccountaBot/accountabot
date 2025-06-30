@@ -1,1 +1,1 @@
-https://accountabot.github.io/accountabot/#contact
+https://accountabot.github.io/accountabot
